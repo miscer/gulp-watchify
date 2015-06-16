@@ -1,0 +1,13 @@
+{
+  "name": "gulp-watchify",
+  "version": "1.0.0",
+  "description": "A simple wrapper around watchify to make it work with Gulp",
+  "main": "index.js",
+  "author": "Michal Miskernik <michal@miskernik.sk>",
+  "license": "MIT",
+  "dependencies": {
+    "browserify": "^10.2.4",
+    "gulp-util": "^3.0.5",
+    "watchify": "^3.2.2"
+  }
+}
