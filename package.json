@@ -6,8 +6,8 @@
   "author": "Michal Miskernik <michal@miskernik.sk>",
   "license": "MIT",
   "dependencies": {
-    "browserify": "^10.2.4",
+    "browserify": "^11.0.1",
     "gulp-util": "^3.0.5",
-    "watchify": "^3.2.2"
+    "watchify": "^3.3.1"
   }
 }
